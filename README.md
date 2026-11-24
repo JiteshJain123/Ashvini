@@ -287,6 +287,3 @@ Research and data from ESA (Collision Avoidance Challenge, ESA-ADB, Kelvins), NA
 
 MIT. See [LICENSE](LICENSE).
 
----
-
-*Built by [Mahendra Meena](https://www.linkedin.com/in/mahendra-meena-72047b201/). The warning is a number; the decision is a person's.*
